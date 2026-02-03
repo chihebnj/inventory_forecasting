@@ -1,0 +1,6 @@
+product_sku,predicted_demand,forecast_date,confidence
+SKU-LAP-001,3.5,2024-01-10,0.92
+SKU-MOU-002,15.2,2024-01-10,0.96
+SKU-KEY-003,7.8,2024-01-10,0.94
+SKU-CHA-004,1.3,2024-01-10,0.90
+SKU-LAM-005,5.0,2024-01-10,0.95

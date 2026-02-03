@@ -1,0 +1,6 @@
+product_sku,current_stock,reorder_point
+SKU-LAP-001,20,10
+SKU-MOU-002,120,50
+SKU-KEY-003,75,40
+SKU-CHA-004,15,8
+SKU-LAM-005,40,20
