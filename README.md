@@ -1,12 +1,12 @@
-﻿#Smart Inventory Forecasting Service
+﻿# Smart Inventory Forecasting Service
 
 
-##Overview
+## Overview
 
 
 A Django-based inventory management API that leverages historical sales data and simulated IoT sensor inputs to forecast stock needs, automate restocking, and prevent stockouts or overstocking. Ideal for small retailers or warehouses to optimize inventory levels efficiently.
 
-##Key Features
+## Key Features
 
 
 Demand Forecasting: Uses machine learning to predict future stock requirements based on sales history.
@@ -16,7 +16,7 @@ API Endpoints: REST API (with optional GraphQL) for querying stock levels, forec
 Alerts & Notifications: Email/SMS alerts for low stock via Celery.
 Scalable Deployment: Docker and Kubernetes for containerized deployment on AWS/GCP.
 
-##Tech Stack
+## Tech Stack
 
 
 Backend: Django + Django REST Framework (DRF)
